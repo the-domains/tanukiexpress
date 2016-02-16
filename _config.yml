@@ -1,28 +1,40 @@
-name: tanukiexpress
+layout_spectrum: 0.1526138
 favicon: null
-layout_spectrum: 0.5548845843877643
-typography_spectrum: 0.38690569205209613
-cta:
-  domain: null
-  bucket: null
-  version: null
+name: tanukiexpress
+purpose: []
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
+cta:
+  version: null
+  bucket: null
+  domain: null
 color:
+  brandStrength: 0.01232593366876245
+  lightness: 0.9047217
+  saturation: 0
+  rhythmicContrast: 0.3566611
   brandColors:
     - '#ADD7F6'
     - '#87BFFF'
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.012325933668762445
-  lightness: 0.1187434031162411
-  saturation: 0.5318315806798637
-  rhythmicContrast: 0.15965942945331335
-purpose: []
+typography_spectrum: 0.8102867
