@@ -3,9 +3,9 @@ favicon: null
 name: tanukiexpress
 purpose: []
 analytics:
-  twitter: null
-  google: null
   facebook: null
+  google: null
+  twitter: null
 opengraph:
   image: null
   type: null
@@ -23,11 +23,11 @@ collections:
     permalink:
       path: '/:title/'
 cta:
+  domain: null
   version: null
   bucket: null
-  domain: null
 color:
-  brandStrength: 0.01232593366876245
+  brandStrength: 0.3026981
   lightness: 0.9047217
   saturation: 0
   rhythmicContrast: 0.3566611
