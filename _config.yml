@@ -1,7 +1,7 @@
 name: da5ide
 favicon: null
-layout_spectrum: 0.1526138
-typography_spectrum: 0.8102867
+layout_spectrum: 0.73948
+typography_spectrum: 0.63268
 collections:
   - index:
       navigable: true
@@ -29,13 +29,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.3026981
-  lightness: 0.9047217
-  saturation: 0
-  rhythmicContrast: 0.3566611
+    - '#fcfcfc'
+    - '#000000'
+    - '#bcbebd'
+    - '#858688'
+    - '#494a4c'
+  brandStrength: 0.8125
+  lightness: 0.6875
+  saturation: 0.9375
+  rhythmicContrast: 0.25
 purpose: []
