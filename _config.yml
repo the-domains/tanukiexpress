@@ -1,7 +1,7 @@
 name: da5ide
 favicon: null
 layout_spectrum: 0.73948
-typography_spectrum: 0.63268
+typography_spectrum: 0.3137
 collections:
   - index:
       navigable: true
