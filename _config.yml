@@ -1,15 +1,7 @@
-layout_spectrum: 0.1526138
-favicon: null
 name: tanukiexpress
-purpose: []
-analytics:
-  facebook: null
-  google: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.1526138
+typography_spectrum: 0.8102867
 collections:
   - index:
       navigable: true
@@ -22,19 +14,28 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+title: Davide A.
 cta:
   domain: null
-  version: null
   bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  brandStrength: 0.3026981
-  lightness: 0.9047217
-  saturation: 0
-  rhythmicContrast: 0.3566611
   brandColors:
     - '#ADD7F6'
     - '#87BFFF'
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-typography_spectrum: 0.8102867
+  brandStrength: 0.3026981
+  lightness: 0.9047217
+  saturation: 0
+  rhythmicContrast: 0.3566611
+purpose: []
